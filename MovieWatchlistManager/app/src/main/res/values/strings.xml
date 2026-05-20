@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Watchlist</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="save_movie">Save Movie</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="planned">Planned</string>
+    <string name="watched">Watched</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+</resources>
